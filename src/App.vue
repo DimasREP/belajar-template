@@ -12,7 +12,7 @@
 </template>
 <script setup>
 import NavbarComponent from "./components/NavbarComponent.vue";
-import HeaderComponent from "./components/HeaderComponent.Vue";
+import HeaderComponent from "./components/HeaderComponent.vue";
 import ContentComponent from "./components/ContentComponent.vue";
 import FooterComponent from "./components/FooterComponent.vue";
 </script>

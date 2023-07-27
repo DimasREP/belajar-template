@@ -11,7 +11,7 @@
       <h1 class="selamatdatang">DATANG</h1>
       <p class="font-semibold">kami tamvan dan pemberani emangg bolehhh??</p>
       <p class="font-semibold">selamatt berbelanjaaaa</p>
-      <Button color="dark" class="mt-5"  >TERTARIK</Button>
+      <Button color="dark" class="mt-5">TERTARIK</Button>
     </div>
   </div>
 </template>
